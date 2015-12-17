@@ -1,2 +1,3 @@
 Lots of hashes, binary trees, recursion, and dynamic programming.  Inspired me
-to implement an AVL tree after a test I used required a balanced tree.
+to implement an AVL tree after a test I used required a balanced tree. They all
+work with the exception of sorted_median.
